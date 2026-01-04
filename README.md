@@ -46,7 +46,6 @@ Social Engineering Exercises (Phishing Analysis 2)
 
        The attacker choose to use a CTA button to make the victim click the malicious link without caution
        Button Text : Review Account
-          <img width="609" height="158" alt="image" src="https://github.com/user-attachments/assets/450fcb24-1e5e-4785-adb2-a4b21317a941" /># Lab-VA-2
        The primary mechanism used to redirect the victim to a malicious website to steal victim sensitive information
    
    4.2. CTA URL Extraction
